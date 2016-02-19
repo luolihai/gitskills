@@ -1,2 +1,3 @@
 不得不说，第一次使用git是有点不习惯，不过感觉很好用，文件交互快捷
  use dev branch,what this feel...
+ 使用master分支提交
